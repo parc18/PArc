@@ -1,0 +1,24 @@
+{
+  "name": "parc",
+  "version": "1.0.0",
+  "description": "Creating Event for uncommon people",
+  "main": "cruise",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-hbs": "^1.0.2",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "surfing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "N"
+  ],
+  "author": "Premi Manish",
+  "license": "UNLICENCED"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "parc",
+  "version": "1.0.0",
+  "description": "Creating Event for uncommon people",
+  "main": "cruise",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "surfing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SRP"
+  },
+  "keywords": [
+    "N"
+  ],
+  "author": "Premi Manish",
+  "license": "UNLICENCED"
+}
